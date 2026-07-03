@@ -1,0 +1,9 @@
+name = "tempmail"
+main = "worker.js"
+compatibility_date = "2024-09-01"
+
+# You will get this ID in Step 3 below
+[[d1_databases]]
+binding = "MAIL_DB"
+database_name = "tempmail_db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"
